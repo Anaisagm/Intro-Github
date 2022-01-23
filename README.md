@@ -5,5 +5,5 @@ Clase de Introducción a Github con Armanado de parte de **Hackademy** y **Briti
 
 ### Insertaremos una imagen 
 
-¡[Hack(Imagen/ImagenBC.png)]!
+¡[Hack(Imagen/descarga.png)]!
 
